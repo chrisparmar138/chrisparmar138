@@ -56,23 +56,23 @@
 
 ## 🔥 Some of My Projects
 
+- ✂ **TextSummarizer-AI**  
+  - A small tool that converts long text into short readable summaries  
+  - Repo: https://github.com/chrisparmar138/TextSummarizerAI
+ 
+ - 🎓 **EduManage**  
+    - A simple student & class management dashboard  
+    - Focused on CRUD operations and data handling  
+    - Repo: https://github.com/chrisparmar138/EduManage
+ 
+ - 🤖 **Talking-AI**  
+    - A basic chatbot-style project created while experimenting with APIs  
+    - Repo: https://github.com/chrisparmar138/Talking-AI 
+    
 - 🛍 **ShopEver**  
   - An e-commerce web app built to understand product flow and UI experience  
   - Stack: MERN  
-  - Repo: https://github.com/chrisparmar138/ShopEver  
-
-- 🎓 **EduManage**  
-  - A simple student & class management dashboard  
-  - Focused on CRUD operations and data handling  
-  - Repo: https://github.com/chrisparmar138/EduManage  
-
-- 🤖 **Talking-AI**  
-  - A basic chatbot-style project created while experimenting with APIs  
-  - Repo: https://github.com/chrisparmar138/Talking-AI  
-
-- ✂ **TextSummarizer-AI**  
-  - A small tool that converts long text into short readable summaries  
-  - Repo: https://github.com/chrisparmar138/TextSummarizerAI  
+  - Repo: https://github.com/chrisparmar138/ShopEver      
 
 ---
 
